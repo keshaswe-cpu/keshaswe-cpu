@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Hrushikesha (Kesha)
 
-**Java Backend Developer | Spring Boot · Microservices · REST APIs | GenAI Integration | 5+ YOE | Open to Remote Roles**
+**Java Full Stack Developer | Spring Boot · Microservices · REST APIs | GenAI Integration | 5+ YOE | Open to Remote Roles**
 
 ---
 
 ## 🧑‍💻 About Me
 
-Senior Java Backend Developer with ~5 years of experience building scalable microservices and RESTful APIs. I specialize in **Spring Boot**, **Spring Cloud**, and **JPA/Hibernate**, with hands-on experience integrating Generative AI into enterprise applications.
+Senior Java Full stack Developer with ~5 years of experience building scalable microservices and RESTful APIs. I specialize in **Spring Boot**, **Spring Cloud**, and **JPA/Hibernate**, with hands-on experience integrating Generative AI into enterprise applications.
 
 Currently working as a Java Consultant at **Globestar Software**, delivering solutions across **insurance**, **banking**, **fintech**, and **e-commerce** domains.
 
